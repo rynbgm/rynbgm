@@ -1,18 +1,19 @@
-# 👋 Salut, moi c'est Rayan !
+# Rayan Boughanem
 
-Bienvenue sur mon profil GitHub ! 🎉
+**Étudiant en Master 2 Sécurité des Systèmes d'Information (SSI) à l'Université de Rouen Normandie.** 
 
-## 🌟 À propos de moi
-- 🎓 Étudiant en Licence Informatique (3e année), avec un intérêt pour la cybersécurité, le développement logiciel, les applications web et les réseaux.
-- 💻 J'aime travailler sur tout projet qui consolidera mes compétences et m'aidera à en acquérir davantage.
+Passionné par la sécurité web, l'exploitation de vulnérabilités et l'administration réseau , je suis actuellement à la recherche d'une **alternance en Cybersécurité pour 2026-2027**  (Rythme : 2 semaines entreprise / 2 semaines école) .
 
-## 🛠️ Compétences
-- **Langages** : Java, C, Python, OCaml, etc.
-- **Frameworks et bibliothèques** : jQuery
-- **Outils** : Git, VS Code, Emacs, Eclipse, etc.
+### Mon Portfolio
+Pour découvrir mes projets (comme l'outil d'audit SSLChecker) , mes compétences détaillées et mes Writeups CTF :
+**[Visiter mon portfolio](https://rynbgm.github.io)** *(Remplace par ton vrai lien)*
 
-## 🔗 Où me trouver
-- [LinkedIn](https://www.linkedin.com/in/rayan-b-10a11026a/)
-- [rayan.boughanem@univ-rouen.fr](mailto:rayan.boughanem@univ-rouen.fr)
+### Focus & Entraînement
+* **Sécurité Web & Système** 
+* **Pentest IA / LLM** 
+* **TryHackMe :** Top 2% (rynbgm) 
+* **Root-Me :** +1700 points (rynbgm) 
 
-Merci de visiter mon profil ! 😊 N’hésite pas à me contacter ou à explorer mes projets.
+### Me contacter
+* **Email :** [rayan.boughanem@univ-rouen.fr](mailto:rayan.boughanem@univ-rouen.fr) 
+* **LinkedIn :** [linkedin.com/in/rayan-boughanem](https://linkedin.com/in/rayan-boughanem) 
